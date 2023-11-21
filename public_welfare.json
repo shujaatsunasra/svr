@@ -1,0 +1,22 @@
+[
+  { "taskName": "School Renovation", "description": "Renovate local school building.", "status": "In Progress", "assignedOffice": "Education Department", "deadline": "2023-12-31" },
+  { "taskName": "Medical Camp", "description": "Organize a medical camp for the community.", "status": "Completed", "assignedOffice": "Health Department", "deadline": "2023-10-15" },
+  { "taskName": "Road Repair", "description": "Repair damaged roads in the city.", "status": "Pending", "assignedOffice": "Public Works Department", "deadline": "2023-11-30" },
+  { "taskName": "Community Clean-Up", "description": "Organize a community clean-up event.", "status": "In Progress", "assignedOffice": "Environmental Services", "deadline": "2023-11-15" },
+  { "taskName": "Library Expansion", "description": "Expand local library facilities.", "status": "Pending", "assignedOffice": "Education Department", "deadline": "2023-12-15" },
+  { "taskName": "Park Beautification", "description": "Beautify the local park.", "status": "In Progress", "assignedOffice": "Parks and Recreation Department", "deadline": "2023-11-01" },
+  { "taskName": "Youth Sports Program", "description": "Initiate a youth sports program.", "status": "Pending", "assignedOffice": "Youth Services Department", "deadline": "2023-12-10" },
+  { "taskName": "Community Garden", "description": "Establish a community garden for residents.", "status": "In Progress", "assignedOffice": "Parks and Recreation Department", "deadline": "2023-11-20" },
+  { "taskName": "Blood Donation Drive", "description": "Organize a blood donation drive for the local hospital.", "status": "Completed", "assignedOffice": "Health Department", "deadline": "2023-10-31" },
+  { "taskName": "Senior Citizens Program", "description": "Start a program to support senior citizens in the community.", "status": "Pending", "assignedOffice": "Social Services Department", "deadline": "2023-12-05" },
+  { "taskName": "Traffic Safety Campaign", "description": "Conduct a campaign to promote traffic safety.", "status": "In Progress", "assignedOffice": "Transportation Department", "deadline": "2023-11-25" },
+  { "taskName": "Community Recycling", "description": "Implement a community recycling program.", "status": "Pending", "assignedOffice": "Environmental Services", "deadline": "2023-12-01" },
+  { "taskName": "Job Fair", "description": "Organize a job fair for local residents.", "status": "Completed", "assignedOffice": "Employment Services", "deadline": "2023-10-20" },
+  { "taskName": "Youth Arts Program", "description": "Launch a program to promote youth participation in the arts.", "status": "In Progress", "assignedOffice": "Youth Services Department", "deadline": "2023-11-10" },
+  { "taskName": "Community Potluck", "description": "Host a community potluck event.", "status": "Pending", "assignedOffice": "Community Services", "deadline": "2023-12-08" },
+  { "taskName": "Housing Assistance Program", "description": "Start a program to provide housing assistance to those in need.", "status": "In Progress", "assignedOffice": "Housing Department", "deadline": "2023-11-18" },
+  { "taskName": "Artificial Intelligence Seminar", "description": "Conduct a seminar on artificial intelligence for the community.", "status": "Pending", "assignedOffice": "Technology Department", "deadline": "2023-12-03" },
+  { "taskName": "Local Market Revitalization", "description": "Revitalize the local market area for economic development.", "status": "In Progress", "assignedOffice": "Economic Development Department", "deadline": "2023-11-05" },
+  { "taskName": "Summer Camp for Kids", "description": "Organize a summer camp for children in the community.", "status": "Completed", "assignedOffice": "Recreation Department", "deadline": "2023-10-25" },
+  { "taskName": "Community Book Club", "description": "Establish a community book club for residents.", "status": "Pending", "assignedOffice": "Library Services", "deadline": "2023-12-12" }
+]

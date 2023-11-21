@@ -1,0 +1,23 @@
+{
+  "region": "Gujarat",
+  "portal": "Land Records",
+  "data": [
+    {
+      "id": "LR001",
+      "name": "Land Parcel 1",
+      "location": "Gandhinagar",
+      "area": 5.2,
+      "mutationStatus": "Approved",
+      "description": "This is a land record for Land Parcel 1 in Gandhinagar with 5.2 acres of area."
+    },
+    {
+      "id": "LR002",
+      "name": "Land Parcel 2",
+      "location": "Ahmedabad",
+      "area": 3.8,
+      "mutationStatus": "Pending",
+      "description": "This is a land record for Land Parcel 2 in Ahmedabad with 3.8 acres of area."
+    }
+    // Add more land records for Gujarat
+  ]
+}
